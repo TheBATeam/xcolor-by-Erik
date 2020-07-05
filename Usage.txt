@@ -1,0 +1,21 @@
+
+
+
+     Plugin by Erik.
+
+     This plugin simply makes the use of the "color" command easier.
+
+
+           Syntax: call xcolor [text color] [background color]    |   set the colors NOTICE: two equal colors dont work
+           Syntax: call xcolor [help | /? | -h | -help]           |   get this message
+           Syntax: call xcolor                                    |   get the colors (as seen below)
+
+
+
+
+
+      Colors
+
+
+      "black" "blue" "green" "turquoise" "red" "lila" "yellow" "gray" "white"
+      "light_gray" "light_blue" "light_green" "light_turquoise" "light_red" "light_lila" "light_yellow"
