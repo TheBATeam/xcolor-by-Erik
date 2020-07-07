@@ -68,9 +68,10 @@ if /i "%command1%"=="black" set colorp1=0
 if /i "%command1%"=="blue" set colorp1=1
 if /i "%command1%"=="green" set colorp1=2
 if /i "%command1%"=="turquoise" set colorp1=3
-if /i "%command21%"=="cyan" set colorp1=3
+if /i "%command1%"=="cyan" set colorp1=3
 if /i "%command1%"=="red" set colorp1=4
 if /i "%command1%"=="lila" set colorp1=5
+if /i "%command1%"=="purple" set colorp1=5
 if /i "%command1%"=="yellow" set colorp1=6
 if /i "%command1%"=="orange" set colorp1=6
 if /i "%command1%"=="light_gray" set colorp1=7
